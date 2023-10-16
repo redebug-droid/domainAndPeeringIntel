@@ -21,3 +21,9 @@ usage: domainIntel.py [-h] [-d DOMAIN] [-s SUBDOMAIN] [-pb] [-i] [-o] [--asn ASN
   
   -a, --all             Get all info about domain and hosting AS
   
+
+# requirements
+
+Selenium => https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
+
+termcolor => https://pypi.org/project/termcolor/
