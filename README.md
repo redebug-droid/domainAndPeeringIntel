@@ -27,3 +27,9 @@ usage: domainIntel.py [-h] [-d DOMAIN] [-s SUBDOMAIN] [-pb] [-i] [-o] [--asn ASN
 Selenium => https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
 
 termcolor => https://pypi.org/project/termcolor/
+
+
+# TODO
+
+Add comments for potential reuse
+Determine minimum required latency to get the DOM
