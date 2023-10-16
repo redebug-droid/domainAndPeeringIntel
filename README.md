@@ -32,4 +32,5 @@ termcolor => https://pypi.org/project/termcolor/
 # TODO
 
 Add comments for potential reuse
+
 Determine minimum required latency to get the DOM
